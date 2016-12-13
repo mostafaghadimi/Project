@@ -1,9 +1,9 @@
 
 int main()
 {
-	int a, b, c, ,d, sum;
-	scanf("%d %d %d", &a, &b, &c, &d)
-	sum = a + b + c + d;
+	int a, b, c, ,d, e, sum;
+	scanf("%d %d %d", &a, &b, &c, &d, &e)
+	sum = a + b + c + d + e;
 	printf("%d", sum);
 
 }
