@@ -3,4 +3,5 @@
 int main()
 {
 	int asghar=0;
+	int baby;
 }
